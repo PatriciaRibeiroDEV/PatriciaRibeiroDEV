@@ -6,7 +6,7 @@
 <img height="200em" img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatriciaRibeiroDEV&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 
-<img align= "center" alt="Patricia" height="450" width="400" src="https://i.pinimg.com/564x/0d/86/fc/0d86fca4b17955c09b04e84ee8ca460c.jpg" play/>
+<img align= "center" alt="Patricia" height="250" width="300" src="https://i.pinimg.com/originals/1a/71/58/1a7158689e5ce37e5d78d97c332a003f.gif" play/>
 
 <div>
   
@@ -19,7 +19,7 @@
  
  <div> 
  
-  <a href = "mailto:patriciasribeiroce@gmail.com"><img align="bottom" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/patricia-silva-ribeiro-bb180624b/" target="_blank"><img align="left-bottom" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:patriciasribeiroce@gmail.com"><img align="down-left" height="40" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/patricia-silva-ribeiro-bb180624b/" target="_blank"><img align="left-down" height="40" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>

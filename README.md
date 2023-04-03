@@ -6,15 +6,15 @@
 <img height="200em" img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatriciaRibeiroDEV&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 
-<img align= "center" alt="Patricia" height="250" width="300" src="https://i.pinimg.com/originals/1a/71/58/1a7158689e5ce37e5d78d97c332a003f.gif" play/>
+<img align= "center" alt="Patricia" height="230" width="300" src="https://i.pinimg.com/originals/1a/71/58/1a7158689e5ce37e5d78d97c332a003f.gif" play/>
 
 <div>
   
-<img align="left-down" alt="Patricia-JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="left-down" alt="Patricia-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-<img align="left-down" alt="Patricia-JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-<img align="left-down" alt="Patricia-JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-<img align="left-down" alt="Patricia-JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+<img align="right" alt="Patricia-JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="right" alt="Patricia-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+<img align="right" alt="Patricia-JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+<img align="right" alt="Patricia-JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+<img align="right" alt="Patricia-JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
 </div>
  
  <div> 
